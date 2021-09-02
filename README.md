@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## ᴋᴜʟᴅᴇᴇᴘ ɢᴜᴘᴛᴀ
 
-You can use the [editor on GitHub](https://github.com/KuldeepCoder1/Resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an engineer from Bharati Vidyapeeth, Pune. I have also completed a diploma in Network Security alongwith my graduation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am up for collaborations & offers.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BHARATI VIDYAPEETH, PUNE - ENGINEERING
+CITY MONTESSORI SCHOOL - SSC
+ST. THERESA'S SCHOOL - HSC
 
 ```markdown
 Syntax highlighted code block
